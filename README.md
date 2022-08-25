@@ -1,2 +1,2 @@
-# -sdk-java-zincsearch
+# SDK-java-zincsearch
 Java SDK Client for ZincSearch
